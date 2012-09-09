@@ -150,6 +150,8 @@ Option Explicit
 Private clsLicKeyCreator As LicCreator
 Private clsLicKeyExtractor As LicExtractor
 
+Public lstMessages As ListBox
+
 
 Private Sub Form_Load()
 
